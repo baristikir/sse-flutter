@@ -3,7 +3,6 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:websocket_tests/screens/another_home_screen.dart';
-import 'package:websocket_tests/screens/home_screen.dart';
 
 class MyHttpOverrides extends HttpOverrides {
   @override
